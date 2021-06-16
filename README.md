@@ -4,7 +4,7 @@
 
 
 
-Desarrollador frontend con experiencia en el desarrollo de aplicaciones. Interesado en adquirir nuevas experiencias al rededor de la indutria Tech.
+Soy desarrollador frontend con experiencia en el desarrollo de aplicaciones. Interesado en adquirir nuevas experiencias al rededor de la indutria Tech.
 
 <br>
 
