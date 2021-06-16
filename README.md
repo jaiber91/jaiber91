@@ -9,7 +9,7 @@ Desarrollador frontend...
 Habilidades: REACT / JS /WEBPACK/SASS/ HTML / CSS
 
 - 👯 Quiero colaborar con Proyectos del lado del frontend 
-- 📫 Cómo contactarme: [![inkedin](https://user-images.githubusercontent.com/45525257/122236011-c53bcb80-ce83-11eb-9ef1-415408e95668.png)]()
+- 📫 Cómo contactarme: [![inkedin](https://user-images.githubusercontent.com/45525257/122236011-c53bcb80-ce83-11eb-9ef1-415408e95668.png)](https://www.linkedin.com/in/jaiberflor/)
 
 )
 - ⚡ Dato curioso: Soy licenciado en historia 
@@ -18,4 +18,4 @@ Habilidades: REACT / JS /WEBPACK/SASS/ HTML / CSS
 
 
 
-[![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)](https://www.linkedin.com/in/jaiberflor/)
+[![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)]()
