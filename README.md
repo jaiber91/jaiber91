@@ -1,8 +1,8 @@
-### Hi there 👋
 
-### Hola 👋, Jaiber Leonardo Flor Navia
-#### Desarrollador frontend
 ![Desarrollador frontend](https://www.canva.com/design/DAEhjPH_Eus/4RR8ztMdGWeR2c_N2p9zxQ/view?utm_content=DAEhjPH_Eus&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### Hola 👋, Soy Jaiber Leonardo Flor Navia
+#### Desarrollador frontend
+
 
 Desarrollador frontend...
 
