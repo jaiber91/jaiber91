@@ -1,5 +1,5 @@
 
-![Desarrollador frontend](https://www.canva.com/design/DAEhjPH_Eus/4RR8ztMdGWeR2c_N2p9zxQ/view?utm_content=DAEhjPH_Eus&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![JAIBER LEONARDO FLOR](https://user-images.githubusercontent.com/45525257/122229776-a71f9c80-ce7e-11eb-8d5e-3291f9cd83a9.png)
 ### Hola 👋, Soy Jaiber Leonardo Flor Navia
 #### Desarrollador frontend
 
@@ -14,4 +14,5 @@ Habilidades: REACT / JS /WEBPACK/SASS/ HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaiber91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JaiberFN)  
+
 
