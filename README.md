@@ -6,8 +6,7 @@
 
 Desarrollador frontend...
 
-Tecnologías: REACT / JS /WEBPACK/SASS/ HTML / CSS
-
+Tecnologías: 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
@@ -21,9 +20,7 @@ Tecnologías: REACT / JS /WEBPACK/SASS/ HTML / CSS
 
 
 - 👯 Quiero colaborar con Proyectos del lado del frontend 
-- 📫 Cómo contactarme: [![inkedin](https://user-images.githubusercontent.com/45525257/122236011-c53bcb80-ce83-11eb-9ef1-415408e95668.png)](https://www.linkedin.com/in/jaiberflor/) 
-[![gmail](https://user-images.githubusercontent.com/45525257/122237660-1d270200-ce85-11eb-92af-06191d05c4b9.png)](jaiver.navia@gmail.com)
-
+- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/jaiberflor/) | 
 - ⚡ Dato curioso: Soy licenciado en historia 
 
 
