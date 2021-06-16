@@ -20,7 +20,8 @@ Tecnologías:
 
 
 - 👯 Quiero colaborar con Proyectos del lado del frontend 
-- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/jaiberflor/) | 
+- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/jaiberflor/) | <a href="mailto:jaiver.navia@gmail.com">Email</a>
+- 
 - ⚡ Dato curioso: Soy licenciado en historia 
 
 
