@@ -20,7 +20,7 @@ Soy desarrollador frontend con experiencia en el desarrollo de aplicaciones. Int
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-
+### Interés 
 - 👯 Quiero colaborar con Proyectos del lado del frontend 
 - 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/jaiberflor/) | <a href="mailto:jaiver.navia@gmail.com">Email</a>
 - ⚡ Dato curioso: Soy licenciado en historia 
