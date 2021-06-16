@@ -9,7 +9,7 @@ Desarrollador frontend...
 Habilidades: REACT / JS /WEBPACK/SASS/ HTML / CSS
 
 - 👯 Quiero colaborar con Proyectos del lado del frontend 
-- 📫 Cómo contactarme: jaiver.navia@gmail.com 
+- 📫 Cómo contactarme: ![linkedin](https://user-images.githubusercontent.com/45525257/122232994-4d6ca180-ce81-11eb-9651-1988cdb5356a.png)
 - ⚡ Dato curioso: Soy licenciado en historia 
 
 
