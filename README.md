@@ -1,10 +1,10 @@
 
 ![JAIBER LEONARDO FLOR](https://user-images.githubusercontent.com/45525257/122229776-a71f9c80-ce7e-11eb-8d5e-3291f9cd83a9.png)
-### Hola 👋, Soy un desarrollador frontend...
+### Hola 👋, bienvenido y/o bienvenida.
 
 
 
-Desarrollador frontend...
+Desarrollador frontend con experiencia en el desarrollo de aplicaciones 
 
 Tecnologías: 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
