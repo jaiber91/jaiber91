@@ -7,6 +7,7 @@
 Desarrollador frontend con experiencia en el desarrollo de aplicaciones 
 
 <br>
+
 **Tecnologías:** 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
