@@ -1,5 +1,5 @@
+![JAIBER LEONARDO FLOR](https://user-images.githubusercontent.com/45525257/122285580-896d2a00-ceb4-11eb-8bfd-a131236e5664.png)
 
-![JAIBER LEONARDO FLOR](https://user-images.githubusercontent.com/45525257/122229776-a71f9c80-ce7e-11eb-8d5e-3291f9cd83a9.png)
 ### Hola 👋, bienvenido y/o bienvenida.
 
 
