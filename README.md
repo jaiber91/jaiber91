@@ -4,13 +4,14 @@
 
 
 
-Soy desarrollador frontend con experiencia en el desarrollo de aplicaciones web, usando React y Angular; de igual forma, tengo conocimiento de lado del backend en el cual he usado Node, Express y Mongo.
-Estoy interesado en adquirir nuevas experiencias al rededor de la indutria Tech.
+Developer with experience in Frontend, Backend, and Mobile Development. I work with Angular, NestJS, and Flutter.
+Passionate about creating efficient and scalable technological solutions, with a focus on developing high-impact products. I am motivated to contribute my technical knowledge to the growth and improvement of innovative projects, applying best practices, code optimization, and solid architectures to ensure robust and high-performance applications.
 
 <br>
 
 ### Tecnologías: <br>
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
