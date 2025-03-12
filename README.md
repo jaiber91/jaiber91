@@ -1,6 +1,9 @@
-![JAIBER LEONARDO FLOR](https://user-images.githubusercontent.com/45525257/122285580-896d2a00-ceb4-11eb-8bfd-a131236e5664.png)
+![JAIBER LEONARDO FLOR](https://github.com/user-attachments/assets/3e523cf1-a31f-45f2-99db-57d18bda3995)
+
+
 
 ### Hola 👋, bienvenido y/o bienvenida.
+
 
 
 
