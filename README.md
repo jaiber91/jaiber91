@@ -12,6 +12,7 @@ Passionate about creating efficient and scalable technological solutions, with a
 ### Tecnologías: <br>
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Nestjs](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -26,9 +27,9 @@ Passionate about creating efficient and scalable technological solutions, with a
 
 
 ### Interés 
-- 👯 Quiero colaborar con Proyectos del lado del frontend 
+- ⚡ Colaborar con Proyectos fullstack 
 - 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/jaiberflor/) | <a href="mailto:jaiver.navia@gmail.com">Email</a>
-- ⚡ Dato curioso: Soy licenciado en historia 
+
 
 
 
